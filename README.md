@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Angular , HTML , CSS, JS,TS
 - 🌱 I’m currently learning ... REACT, ANGULAR
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... MY Email : durgaprasad200014@outlook.com
 
 <!---
 DurgaPrasadpmdp/DurgaPrasadpmdp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
