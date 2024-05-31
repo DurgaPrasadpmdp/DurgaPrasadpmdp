@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DurgaPrasad
-- 👀 I’m interested in ...Angular , HTML , CSS, JS,TS
+- 👀 I’m interested in ...Angular , React, Javascript, React, HTML , CSS
 - 🌱 I’m currently learning ... REACT, ANGULAR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... MY Email : durgaprasad200014@outlook.com
